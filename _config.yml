@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jeredbare.github.io
+title: JeredBare.com
+tagline: Stuff....Things...
+description: It's a blog.
+paginate: 5
